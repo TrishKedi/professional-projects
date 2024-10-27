@@ -17,10 +17,10 @@ Designed to connect users with their favorite radio content, the MTN Pulse Radio
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, Vue.js
-- **Backend**: PHP, Laravel
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: Node.js, Express, PHP
 - **Database**: MySQL
-- **Hosting**: AWS
+- **Hosting**: WordPress VIP, AWS
 
 ---
 
@@ -37,15 +37,22 @@ Designed to connect users with their favorite radio content, the MTN Pulse Radio
 The website architecture is designed for a smooth user experience and efficient content delivery.
 
 1. **Frontend**:
-   - Built with Vue.js for a reactive interface, allowing real-time updates without reloading.
+   - Built with Vanilla.js for a reactive interface, allowing real-time updates without reloading.
 
 2. **Backend**:
-   - PHP with Laravel manages user interactions and streaming services.
+   - PHP  manages user interactions and streaming services.
 
 3. **Database**:
    - MySQL stores user data, show archives, and promotional offers.
 
 ---
+
+ 4. **Hosting**
+  - The pulse radio website is hosted by the WordPress VIP infrastructure. WordPress VIP is built on a global infrastructure deployed in data centres around the world. From origin to edge, the components work seamlessly to deliver high performance.
+
+    <img src="https://raw.githubusercontent.com/TrishKedi/professional-projects/refs/heads/main/wordpressvip-architecture.webp"/>
+
+  ---
 
 ## 🌐 Visit the Website
 Explore the MTN Pulse Radio Website: [pulseradio.mtn.co.ug](https://pulseradio.mtn.co.ug/)
