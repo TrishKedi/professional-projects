@@ -20,7 +20,7 @@ This platform aims to connect sports enthusiasts with relevant content and offer
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Hosting**: AWS
+- **Hosting**: AWS, Wordpress VIP
 
 ---
 
@@ -44,6 +44,11 @@ The website is built on a microservices architecture, allowing for efficient sca
 
 3. **Database**:
    - MongoDB stores user data, event details, and promotional offers.
+  
+ 4. **Hosting**
+  - The sports website is hosted by the WordPress VIP infrastructure. WordPress VIP is built on a global infrastructure deployed in data centres around the world. From origin to edge, the components work seamlessly to deliver high performance.
+
+    <img src="https://raw.githubusercontent.com/TrishKedi/professional-projects/refs/heads/main/wordpressvip-architecture.webp"/>
 
 ---
 
