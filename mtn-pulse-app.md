@@ -1,28 +1,29 @@
 # MTN Pulse App
 
-An engagement platform developed for MTN, Africa's leading telecommunications network, the MTN Pulse App offers interactive features, promotions, and tools for MTN customers. The app integrates multiple services such as data and voice bundle purchases, in-app notifications, and MTN's WakaNet home internet services, providing users with a comprehensive experience on a single platform.
+An engagement platform developed for MTN, Africa's leading telecommunications network, the MTN Pulse App offers interactive features, promotions, and tools for MTN customers. The app integrates multiple services such as data and voice bundle purchases, in-app notifications, MTN freebies and deals, entertainment, and educational content, providing users with a comprehensive experience on a single platform.
 
 ---
 
 ## 📋 Project Overview
-The MTN Pulse App was designed to enhance customer engagement for MTN by offering an interactive, user-friendly platform with features tailored to users’ needs. My role as the lead engineer included collaborating with large teams, managing weekly check-ins with MTN managers, and overseeing both the development and maintenance of core functionalities. The app currently serves millions of users across several African countries.
+The MTN Pulse App was designed to enhance customer engagement for MTN by offering an interactive, user-friendly platform with features tailored to users’ needs. My role as the lead engineer included collaborating with large teams, managing weekly check-ins with MTN managers, and overseeing both the development and maintenance of core functionalities. The app currently serves millions of users across Uganda.
 
 ---
 
 ## ✨ Features
 - **Data & Voice Bundles**: Users can purchase and manage their data and voice bundles within the app.
-- **WakaNet Integration**: Provides users with seamless access to MTN's home internet services.
-- **Personalized Promotions**: Dynamic offers tailored to user activity, such as loyalty rewards and discounts.
-- **In-App Notifications**: Real-time notifications to update users about new services, data usage, or special promotions.
-- **Secure API Integration**: Integrates securely with MTN’s backend systems, including payment gateways.
-- **User Authentication**: Role-based access control to manage user permissions and secure sensitive features.
+- **Freebies**: Users can get promotional codes from their favorite vendors.
+- **Pulse Radio**: Pulsers can tune into the pulse radio on the go.
+- **Games**: Menu that navigates to MTN Go-Games.
+- **Events**: Pulsers are kept up to date with upcoming events.
+- **Pulse Tube**: Repository of clips from past events for Pulsers to re-live their most exciting events
+- **Blogs**: Educational blogs
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frontend**: React Native for a cross-platform experience on Android and iOS.
 - **Backend**: Node.js and Express for scalable, high-performance API handling.
-- **Cloud Services**: Azure for cloud storage, compute resources, and deployment.
+- **Cloud Services**: Google Cloud Platform for cloud storage, compute resources, and deployment.
 - **Database**: MongoDB for flexible data management, suitable for handling large datasets.
 - **Authentication**: Firebase Auth to manage user logins securely.
 - **DevOps**: Docker for containerized deployments, with CI/CD pipelines on Jenkins.
@@ -61,7 +62,7 @@ The MTN Pulse App follows a modular, microservices-based architecture, designed 
    - Sends real-time notifications to users about promotions, account updates, and service alerts.
    - Rate limiting and logging to monitor message delivery and effectiveness.
 
-5. **Cloud Infrastructure (Azure)**:
+5. **Cloud Infrastructure (Google Cloud)**:
    - Ensures scalable compute and storage resources.
    - Supports containerized deployments using Docker and enables CI/CD with Jenkins for continuous integration.
 
