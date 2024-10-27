@@ -72,6 +72,7 @@ The MTN Pulse App follows a modular, microservices-based architecture, designed 
 
 ## 🏗️ Flow Diagrams
 
+  1. **VAS**:
     <img src="https://github.com/TrishKedi/professional-projects/blob/main/Pulse%20APP%20VASAPPS.jpeg"/>
     
 ---    
