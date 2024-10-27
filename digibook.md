@@ -23,9 +23,9 @@ Digibook aims to revolutionize the learning experience by providing a seamless o
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
-- **Database**: MongoDB (for storing course content, user data, and progress tracking)
-- **Hosting**: AWS
+- **Backend**: Node.js, Express, PHP
+- **Database**: MySQL (for storing course content, user data, and progress tracking)
+
 
 ---
 
@@ -50,7 +50,7 @@ The architecture of Digibook is designed for scalability, performance, and secur
    - Node.js with Express handles API requests and manages user interactions.
 
 3. **Database**:
-   - MongoDB is utilized for managing course content, user data, and progress tracking.
+   - MySQL is utilized for managing course content, user data, and progress tracking.
 
 ---
 
