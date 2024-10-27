@@ -66,7 +66,15 @@ The MTN Pulse App follows a modular, microservices-based architecture, designed 
    - Ensures scalable compute and storage resources.
    - Supports containerized deployments using Docker and enables CI/CD with Jenkins for continuous integration.
 
+     <img src="https://github.com/TrishKedi/professional-projects/blob/main/Pulse%20APP%20Architecture.jpeg"/>
+
 ---
+
+## 🏗️ Flow Diagrams
+
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Pulse%20APP%20VASAPPS.jpeg"/>
+    
+---    
 
 ## 📈 Results and Impact
 - **User Engagement**: Enhanced MTN’s customer engagement with over a 20% increase in daily active users.
