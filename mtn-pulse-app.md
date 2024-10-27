@@ -74,4 +74,19 @@ The MTN Pulse App follows a modular, microservices-based architecture, designed 
 
 ---
 
+## 🌐 Live Demo
+
+Experience the MTN Pulse App live through one of the options below:
+
+1. **[Interactive Web Demo (Hosted on Heroku)](https://your-heroku-app-link.com)** - A full-featured web version of the MTN Pulse App where you can explore features like data bundle purchases, promotional content, and in-app notifications.
+   
+2. **[Static Demo (GitHub Pages)](https://trishkedi.github.io/mtn-pulse-demo)** - A frontend-only version with mock data for a secure yet realistic experience.
+
+3. **[Figma Prototype](https://www.figma.com/proto/your-prototype-link)** - Click through the app screens to explore the UI and see how the app flows from feature to feature.
+
+4. **[Mobile APK Download](https://your-firebase-link.com)** - Test the app directly on your Android device (Demo version with limited features).
+
+> **Note**: The demo versions use mocked data to simulate a real user experience without affecting live systems or user data.
+
+
 Thank you for exploring the MTN Pulse App repository! For further information, please feel free to reach out or check out the detailed documentation in the `docs` folder.
