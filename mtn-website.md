@@ -12,16 +12,18 @@ The MTN Main Website was designed to offer a user-friendly interface for custome
 ## ✨ Features
 - **WakaNet Service**: Users can easily purchase WakaNet home internet plans.
 - **4G & 5G Purchases**: Integrated options for purchasing data plans on advanced network technologies.
-- **Voice Bundle Purchases**: Simplified purchase process for various voice bundles.
+- **Smart Family Purchases**: Integrated options for purchasing data plans on advanced network technologies.
+- **Booster Packs Purchases**: Integrated options for purchasing data plans on advanced network technologies.
+- **Data and Voice Bundle Purchases**: Simplified purchase process for various voice bundles.
 - **Promotional Highlights**: Showcasing ongoing promotions and special offers prominently.
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, PHP
 - **Database**: MySQL
-- **Hosting**: AWS
+- **Hosting**: WordPress VIP
 
 ---
 
@@ -46,6 +48,12 @@ The website architecture is designed for scalability, with a focus on modular co
 
 3. **Database**:
    - MySQL for managing user data, service details, and transactions.
+
+ 4. **Hosting**
+    The main website is hosted by the WordPress VIP infrastructure. WordPress VIP is built on a global infrastructure deployed in data centres around the world. From origin to edge, the components work seamlessly to deliver high performance.
+
+    <img src="https://raw.githubusercontent.com/TrishKedi/professional-projects/refs/heads/main/wordpressvip-architecture.webp"/>
+    
 
 ---
 
