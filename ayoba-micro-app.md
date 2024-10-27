@@ -20,11 +20,11 @@ The MTN-Ayoba Micro-App was developed to provide users with a seamless experienc
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, React
 - **Backend**: Node.js, Express
-- **Integration**: Ayoba API
+- **Integration**: Ayoba API, MADAPI, VASAPPs API
 - **Database**: MongoDB (for tracking purchases and user interactions)
-- **Hosting**: AWS Lambda (for serverless backend)
+- **Hosting**: Google cloud (for serverless backend)
 
 ---
 
@@ -43,13 +43,43 @@ The MTN-Ayoba Micro-App was developed to provide users with a seamless experienc
 The architecture of the MTN-Ayoba Micro-App focuses on modular design and efficient service integration to enhance performance.
 
 1. **Frontend**:
-   - Built with HTML/CSS and JavaScript, optimized for performance within the Ayoba app environment.
+   - Built with HTML/CSS and React, optimized for performance within the Ayoba app environment.
 
 2. **Backend**:
    - Node.js with Express handles API requests, processing user purchases and communicating with the Ayoba API.
 
 3. **Database**:
    - MongoDB is used to store user purchase history, bundle details, and manage real-time notifications.
+  
+4. **Cloud Infrastructure (Google Cloud)**:
+   - Ensures scalable compute and storage resources.
+   - Supports containerized deployments using Docker and enables CI/CD with Jenkins for continuous integration.
+
+   <img src="https://github.com/TrishKedi/professional-projects/blob/main/Pulse%20APP%20Architecture.jpeg"/>
+
+---
+
+## 🏗️ Flow Diagrams
+
+  1. **MADAPI**:
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Ayoba%20MADAPI%20-%201.jpeg"/>
+  
+  2. **VAS**:
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Ayoba%20VasApps.jpeg"/>
+
+---
+
+## 🌐 Live Demo
+
+Experience the MTN Pulse App live through one of the options below:
+
+1. **[Interactive Web Demo (Hosted on Heroku)](https://your-heroku-app-link.com)** - A full-featured web version of the MTN Pulse App where you can explore features like data bundle purchases, promotional content, and in-app notifications.
+   
+2. **[Static Demo (GitHub Pages)](https://trishkedi.github.io/mtn-pulse-demo)** - A frontend-only version with mock data for a secure yet realistic experience.
+
+3. **[Figma Prototype](https://www.figma.com/proto/your-prototype-link)** - Click through the app screens to explore the UI and see how the app flows from feature to feature.
+
+4. **[Mobile APK Download](https://your-firebase-link.com)** - Test the app directly on your Android device (Demo version with limited features).
 
 ---
 
