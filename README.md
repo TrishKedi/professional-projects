@@ -1,4 +1,4 @@
-# [Your Name's Portfolio](https://yourusername.github.io/portfolio)
+# [Patricia Atim](https://yourusername.github.io/trishkedi)
 
 Welcome to my portfolio! I'm a 
 
