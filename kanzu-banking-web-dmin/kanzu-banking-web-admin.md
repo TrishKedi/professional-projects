@@ -22,7 +22,7 @@ The Kanzu Banking Web Admin Portal provides banking administrators with tools to
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, HTML, CSS, JavaScript
+- **Frontend**: Angular, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (for storing admin data and transaction logs)
 - **Hosting**: AWS

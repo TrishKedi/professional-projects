@@ -17,10 +17,10 @@ Designed to connect users with their favorite radio content, the MTN Pulse Radio
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: Node.js, Express, PHP
+- **Frontend**: React, HTML, CSS, Bootstrap
+- **Backend**: Node.js, Express, PHP, Firebase
 - **Database**: MySQL
-- **Hosting**: WordPress VIP, AWS
+- **Hosting**: AWS
 
 ---
 
