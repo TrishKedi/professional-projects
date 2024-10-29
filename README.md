@@ -28,7 +28,7 @@ I’m driven by a passion for creating impactful, scalable, and innovative tech 
 ## 📂 Projects
 
 
-### [Project 1: MTN Pulse App](https://github.com/yourusername/mtn-pulse)
+### [Project 1: MTN Pulse App](https://github.com/TrishKedi/mtn-pulse-app)
 Developed and maintained the MTN Pulse App, an engagement platform with features like data and voice bundle purchases, integrated payment solutions, and home internet services (WakaNet).
 
 - **Technologies**: React Native, Node.js, Firebase, Google Cloud
