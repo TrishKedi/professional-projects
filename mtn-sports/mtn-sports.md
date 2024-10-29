@@ -17,10 +17,10 @@ This platform aims to connect sports enthusiasts with relevant content and offer
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: React, HTML, CSS, Bootstrap
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Hosting**: AWS, Wordpress VIP
+- **Hosting**: AWS
 
 ---
 

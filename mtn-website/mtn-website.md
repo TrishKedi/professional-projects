@@ -16,10 +16,10 @@ The MTN Main Website was designed to offer a user-friendly interface for custome
 
 ## ✨ Features
 - **WakaNet Service**: Users can easily purchase WakaNet home internet plans.
-- **4G & 5G Purchases**: Integrated options for purchasing data plans on advanced network technologies.
-- **Smart Family Purchases**: Integrated options for purchasing data plans on advanced network technologies.
-- **Booster Packs Purchases**: Integrated options for purchasing data plans on advanced network technologies.
-- **Data and Voice Bundle Purchases**: Simplified purchase process for various voice bundles.
+- **4G & 5G Subscriptions**: Integrated options for purchasing data plans on advanced network technologies.
+- **Smart Family Subscriptions**: Integrated options for purchasing data plans on advanced network technologies.
+- **Booster Packs Subscriptions**: Integrated options for purchasing data plans on advanced network technologies.
+- **Data and Voice Bundle Subscriptions**: Simplified purchase process for various voice bundles.
 - **Promotional Highlights**: Showcasing ongoing promotions and special offers prominently.
 
 ---
@@ -28,7 +28,7 @@ The MTN Main Website was designed to offer a user-friendly interface for custome
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Node.js, Express, PHP
 - **Database**: MySQL
-- **Hosting**: WordPress VIP, AWS
+- **Hosting**: AWS, WordPress VIP
 
 ---
 

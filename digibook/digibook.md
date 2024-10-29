@@ -22,7 +22,7 @@ Digibook aims to revolutionize the learning experience by providing a seamless o
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, HTML, CSS, JavaScript
+- **Frontend**: React
 - **Backend**: Node.js, Express, PHP
 - **Database**: MySQL (for storing course content, user data, and progress tracking)
 
