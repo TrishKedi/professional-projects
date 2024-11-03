@@ -48,7 +48,7 @@ The website is built on a microservices architecture, allowing for efficient sca
  4. **Hosting**
   - The sports website is hosted by the WordPress VIP infrastructure. WordPress VIP is built on a global infrastructure deployed in data centres around the world. From origin to edge, the components work seamlessly to deliver high performance.
 
-    <img src="https://raw.githubusercontent.com/TrishKedi/professional-projects/refs/heads/main/wordpressvip-architecture.webp"/>
+    <img src="https://raw.githubusercontent.com/TrishKedi/professional-projects/refs/heads/main/assets/architectural-diagrams/wordpressvip-architecture.webp"/>
 
 ---
 
