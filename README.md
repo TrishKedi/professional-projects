@@ -8,27 +8,28 @@ I am passionate about Artificial Intelligence, FinTech Solutions. Here, you’ll
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ## 🧑‍💻 About Me
 I am currently pursuing a Master's in Artificial Intelligence at Deggendorf Institute of Technology in Germany, with over 6 years of experience in software engineering. My expertise spans spearheading the development and delivery of high-impact products for Africa’s largest telecommunications network, MTN, serving millions of customers and custom software solutions for clients across the US, UK, Canada, and Israel, as well as FinTech systems for financial inclusion in Uganda.
 
 I’m driven by a passion for creating impactful, scalable, and innovative tech solutions that solve real-world problems.
 
 ---
+-->
 
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages**: Python, React, Node.js, Agular,js, C++, Java, Kotlin
-- **Frameworks and Libraries**: React, Django, Flask, TensorFlow, PyTorch
-- **Tools and Platforms**: Docker, Kubernetes, GitHub, Heroku, AWS
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Specialized Knowledge**:Cloud-Based Solutions, FinTech Development, Embedded Systems, Architectural design, perfomance optimization, AI and Machine learning
+- **Frameworks and Libraries**: React, Django, Flask, TensorFlow, PyTorch, Sckit Learn, Pandas, Numpy, Matplotlib
+- **Tools and Platforms**: Docker, Kubernetes, GitHub, Heroku, AWS, Google Cloud
+- **Databases**: MySQL, MongoDB, PostgreSQL, Firebase
+- **Specialized Knowledge**: Cloud-Based Solutions, FinTech Development, Embedded Systems, Architectural design, Performance optimization, AI and Machine learning
 
 ---
 
 ## 📂 Projects
 
 
-### [Project 1: MTN Pulse App](https://github.com/yourusername/mtn-pulse)
+### [Project 1: MTN Pulse App](https://github.com/TrishKedi/mtn-pulse-app)
 Developed and maintained the MTN Pulse App, an engagement platform with features like data and voice bundle purchases, integrated payment solutions, and home internet services (WakaNet).
 
 - **Technologies**: React Native, Node.js, Firebase, Google Cloud
@@ -37,7 +38,7 @@ Developed and maintained the MTN Pulse App, an engagement platform with features
 
 ---
 
-### [Project 2: MTN Ayoba Micro App](https://github.com/yourusername/mtn-pulse)
+### [Project 2: MTN Ayoba Micro App](https://github.com/TrishKedi/ayoba-micro-app)
 Developed and maintained the MTN Ayoba micro App, an embedded application within the Ayoba messaging platform, allowing users to easily purchase Gaga and Freedom bundles. 
 
 - **Technologies**: React Native, Node.js, Firebase, Google Cloud
@@ -46,7 +47,7 @@ Developed and maintained the MTN Ayoba micro App, an embedded application within
 
 ---
 
-### [Project 3: MTN main website](https://github.com/yourusername/mtn-pulse)
+### [Project 3: MTN main website](https://github.com/TrishKedi/mtn-website)
 Desinged implemented core features that enhance user experience and facilitate service purchases serving millions of customers. 
 
 - **Technologies**: React, Node.js, Express, PHP, MySQL
@@ -55,7 +56,7 @@ Desinged implemented core features that enhance user experience and facilitate s
 
 ---
 
-### [Project 4: MTN Pulse Web App](https://github.com/yourusername/mtn-pulse)
+### [Project 4: MTN Pulse Web App](https://github.com/TrishKedi/mtn-pulse-web-app)
 Designed to cater to a younger audience, the MTN Pulse Website focuses on user engagement through interactive content and promotions. I was responsible for the overall design, feature implementation, and ensuring optimal performance.
 
 - **Technologies**: React, Node.js, Express, PHP, MySQL, 
@@ -64,7 +65,7 @@ Designed to cater to a younger audience, the MTN Pulse Website focuses on user e
 
 ---
 
-### [Project 5: MTN Pulse Radio](https://github.com/yourusername/mtn-pulse)
+### [Project 5: MTN Pulse Radio](https://github.com/TrishKedi/pulse-radio)
 Designed to connect users with their favorite radio content, the MTN Pulse Radio Website offers a user-friendly interface for streaming and exploring music and shows. My role included layout design, feature implementation, and ensuring an engaging user experience.
 
 - **Technologies**: React, Node.js, Express, PHP, MySQL, Firebase
@@ -73,9 +74,7 @@ Designed to connect users with their favorite radio content, the MTN Pulse Radio
 
 ---
 
----
-
-### [Project 6: MTN Sports](https://github.com/yourusername/mtn-pulse)
+### [Project 6: MTN Sports](https://github.com/TrishKedi/mtn-sports)
 This platform aims to connect sports enthusiasts with relevant content and offers. My responsibilities included implementing features, designing the UI, and ensuring an engaging user experience.
 
 - **Technologies**: React, Node.js, Express, PHP, MySQL, Firebase
@@ -84,7 +83,7 @@ This platform aims to connect sports enthusiasts with relevant content and offer
 
 ---
 
-### [Project 7: Kanzu Banking Self Service](https://github.com/yourusername/kanzu-banking)
+### [Project 7: Kanzu Banking Self Service](https://github.com/TrishKedi/kanzu-banking-selfservice)
 Contributed to the development of the self service portal, a digital banking platform designed to improve financial inclusion for SACCOs and Investment clubs. This project incorporates secure transaction handling, user-friendly interfaces, and advanced analytics.
 
 - **Technologies**: Django, PostgreSQL, Docker, AWS, Angular, Mifos API
@@ -93,7 +92,7 @@ Contributed to the development of the self service portal, a digital banking pla
 
 ---
 
-### [Project 8: Kanzu Banking Web Service](https://github.com/yourusername/kanzu-banking)
+### [Project 8: Kanzu Banking Web Admin](https://github.com/TrishKedi/kanzu-banking-web-admin)
 Contributed to the development of the admin portal, That provides banking administrators with tools to oversee user accounts, manage transactions, and generate reports. My role involved designing the admin interface, implementing critical functionalities, and optimizing performance for administrative tasks.
 
 - **Technologies**: Django, PostgreSQL, Docker, AWS, Angular, Mifos API
@@ -102,7 +101,7 @@ Contributed to the development of the admin portal, That provides banking admini
 
 ---
 
-### [Project 9: Kanzu Banking Android Self Service](https://github.com/yourusername/kanzu-banking)
+### [Project 9: Kanzu Banking Android Self Service](https://github.com/TrishKedi/kb-android-selfservice)
 Contributed to the development of the android self service APP, that empowers users with easy access to banking services directly from their mobile devices. Leveraging the Mifos framework, my role involved designing the app interface, implementing core functionalities, and ensuring that security and usability standards were met.
 
 - **Technologies**: Android SDK, Kotlin, Django, PostgreSQL, Docker, AWS, Angular, Mifos API
@@ -111,7 +110,7 @@ Contributed to the development of the android self service APP, that empowers us
 
 ---
 
-### [Project 10: Kanzu Banking Android Admin](https://github.com/yourusername/kanzu-banking)
+### [Project 10: Kanzu Banking Android Admin](https://github.com/TrishKedi/kb-android-admin)
 Contributed to the development of the android self service APP that enables banking administrators to manage users and transactions on the go. Leveraging the Mifos framework, my role involved designing the admin interface, implementing key functionalities, and ensuring robust security measures were in place.
 
 - **Technologies**: Android SDK, Kotlin, Django, PostgreSQL, Docker, AWS, Angular, Mifos API
@@ -120,9 +119,7 @@ Contributed to the development of the android self service APP that enables bank
 
 ---
 
----
-
-### [Project 10: Kanzu Banking Android Admin](https://github.com/yourusername/kanzu-banking)
+### [Project 10: Kanzu Banking Android Admin](https://github.com/TrishKedi/kb-android-admin)
 Contributed to the development of the android self service APP that enables banking administrators to manage users and transactions on the go. Leveraging the Mifos framework, my role involved designing the admin interface, implementing key functionalities, and ensuring robust security measures were in place.
 
 - **Technologies**: Android SDK, Kotlin, Django, PostgreSQL, Docker, AWS, Angular, Mifos API
@@ -130,7 +127,7 @@ Contributed to the development of the android self service APP that enables bank
 - **Impact**: Empowered over 10,000 users across multiple SACCOs
 
 
-### [Project 11: Digiboook](https://github.com/yourusername/ecommerce-solutions)
+### [Project 11: Digiboook](https://github.com/TrishKedi/digibook)
 Contributed to the developement of Digibook an innovative Learning Management System (LMS) designed to facilitate online learning and provide educators and students with a comprehensive platform for educational resources. My contributions involved developing key features, ensuring a user-friendly interface, and enhancing overall system performance.
 
 - **Technologies**: Node.js, Express, PHP, MySQL
@@ -138,7 +135,7 @@ Contributed to the developement of Digibook an innovative Learning Management Sy
 
 ---
 
-### [Project 12: 1clickmigration](https://github.com/yourusername/ecommerce-solutions)
+### [Project 12: 1clickmigration](https://github.com/TrishKedi/1clickmigration)
 Contributed to the developement of 1clickmigration a powerful plugin designed to simplify the site migration process for users, enabling them to transfer their websites quickly and efficiently. My contributions included developing key features, enhancing user experience, and ensuring seamless integration with various platforms.
 
 - **Technologies**: React, PHP, MySQL
