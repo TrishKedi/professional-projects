@@ -65,21 +65,21 @@ The website architecture is designed for scalability, with a focus on modular co
 ## 🏗️ Flow Diagrams
 
 1. **WakaNet**
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Wakanet%20payment.jpeg"/>
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Wakanet%20onboarding.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/Wakanet%20payment.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/Wakanet%20onboarding.jpeg"/>
 
 2. **4G/5G**
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/4g_5g%20display.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/4g_5g%20display.jpeg"/>
 
 3. **Booster Packs**
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Booster%20Packs.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/Booster%20Packs.jpeg"/>
 
 4. **Smart Family**
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/SmartFamily%20Subcriptions.jpeg"/>
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/SmartFamily%20Remove%20Secondary.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/SmartFamily%20Subcriptions.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/SmartFamily%20Remove%20Secondary.jpeg"/>
 
 5. **Keep my number**
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Keep%20My%20Number.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/Keep%20My%20Number.jpeg"/>
 
 ---    
    

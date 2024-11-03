@@ -1,8 +1,8 @@
 # [Patricia Atim](https://yourusername.github.io/trishkedi)
 
-Welcome to my portfolio! I'm a 
+## Welcome to my portfolio!
 
-A highly skilled software engineer with six years of experience in designing, developing, and deploying high-performance software solutions. I have a proven track record of delivering robust, scalable, and secure applications across diverse industries, including telecommunications, financial services, Learning management systems, and e-commerce. My expertise spans cloud computing, API integration, system architecture, and performance optimization. I excel in leading teams, collaborating with cross-functional stakeholders, and mentoring junior engineers to drive innovation and deliver top-tier products. Adaptable and solution-oriented, I am committed to building software that meets both business objectives and customer needs.
+I am a highly skilled software engineer with six years of experience in designing, developing, and deploying high-performance software solutions. I have a proven track record of delivering robust, scalable, and secure applications across diverse industries, including telecommunications, financial services, Learning management systems, and e-commerce. My expertise spans cloud computing, API integration, system architecture, and performance optimization. I excel in leading teams, collaborating with cross-functional stakeholders, and mentoring junior engineers to drive innovation and deliver top-tier products. Adaptable and solution-oriented, I am committed to building software that meets both business objectives and customer needs.
 
 I am passionate about Artificial Intelligence, FinTech Solutions. Here, you’ll find a selection of my projects, skills, and accomplishments that demonstrate my experience and technical abilities.
 
